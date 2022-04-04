@@ -1,0 +1,17 @@
+.search-box{
+    top: 50%;
+    background: #2f3640;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    caret-color: aliceblue;
+    color: white;
+}

@@ -1,0 +1,22 @@
+.footer {
+    width: 100%;
+    display: grid;
+    background-color: #020507;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: absolute;
+    padding-top: 100px 0 30px;
+    
+  }
+   
+  .row{
+    width:25%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  
+  
